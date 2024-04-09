@@ -4,6 +4,7 @@ import pygame
 file = (r'C:\Python\Kizz-Daniel-My-G-(JustNaija.com).mp3')
 
 # pygame.init()
+# pygame.mixer.init()
 # pygame.mixer.music.load(file)
 # pygame.mixer.music.play()
 # time.sleep(10)
